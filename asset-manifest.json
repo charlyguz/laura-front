@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/laura-front/static/css/main.7533614e.css",
-    "main.js": "/laura-front/static/js/main.b7c8fff5.js",
+    "main.js": "/laura-front/static/js/main.5aa53109.js",
     "static/js/787.c4e7f8f9.chunk.js": "/laura-front/static/js/787.c4e7f8f9.chunk.js",
     "static/media/teacher.png": "/laura-front/static/media/teacher.74dbc3a17b3177578ae2.png",
     "static/media/classroom.jpg": "/laura-front/static/media/classroom.fc322ab7955c7de87866.jpg",
     "index.html": "/laura-front/index.html",
     "main.7533614e.css.map": "/laura-front/static/css/main.7533614e.css.map",
-    "main.b7c8fff5.js.map": "/laura-front/static/js/main.b7c8fff5.js.map",
+    "main.5aa53109.js.map": "/laura-front/static/js/main.5aa53109.js.map",
     "787.c4e7f8f9.chunk.js.map": "/laura-front/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7533614e.css",
-    "static/js/main.b7c8fff5.js"
+    "static/js/main.5aa53109.js"
   ]
 }
