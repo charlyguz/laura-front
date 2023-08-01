@@ -44,7 +44,7 @@ export default function TeacherComponent({ userData }) {
     formData.append('native_language', userData.nativeLanguage);
     formData.append('target_language', userData.learningLanguage);
     console.log(blob);
-    const response = await fetch('https://tu-backend-en-azure.azurewebsites.net/start_conversation', {
+    const response = await fetch('laura-backend.azurewebsites.net', {
       method: 'POST',
       body: formData,
     });

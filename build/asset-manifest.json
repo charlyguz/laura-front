@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AI-minds/static/css/main.7533614e.css",
-    "main.js": "/AI-minds/static/js/main.e16eba57.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/AI-minds/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/teacher.png": "/AI-minds/static/media/teacher.74dbc3a17b3177578ae2.png",
-    "static/media/classroom.jpg": "/AI-minds/static/media/classroom.fc322ab7955c7de87866.jpg",
-    "index.html": "/AI-minds/index.html",
-    "main.7533614e.css.map": "/AI-minds/static/css/main.7533614e.css.map",
-    "main.e16eba57.js.map": "/AI-minds/static/js/main.e16eba57.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/AI-minds/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/laura-front/static/css/main.7533614e.css",
+    "main.js": "/laura-front/static/js/main.5aa53109.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/laura-front/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/teacher.png": "/laura-front/static/media/teacher.74dbc3a17b3177578ae2.png",
+    "static/media/classroom.jpg": "/laura-front/static/media/classroom.fc322ab7955c7de87866.jpg",
+    "index.html": "/laura-front/index.html",
+    "main.7533614e.css.map": "/laura-front/static/css/main.7533614e.css.map",
+    "main.5aa53109.js.map": "/laura-front/static/js/main.5aa53109.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/laura-front/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7533614e.css",
-    "static/js/main.e16eba57.js"
+    "static/js/main.5aa53109.js"
   ]
 }
